@@ -1,5 +1,5 @@
 1, This code is the algrithm used in the subgroup paper [ https://pubmed.ncbi.nlm.nih.gov/32946557/ ] , 
-which has created two subgroups within a group of homogenous normal newborns.
+which has created two subgroups within a group of homogenous normal newborns, based on the heterogenous relationship between the resting state functional connectome and 4-year-old IQ.
 
 2, the code includes connections level subgrouping and whole brain level subgrouping. 
 
